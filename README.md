@@ -13,9 +13,16 @@ This project demonstrates a Cisco Packet Tracer enterprise network simulation.
 ## Topology
 Three routers connected using serial interfaces with two LAN networks and one server network.
 
+
+## 
+
 ## Tools
 - Cisco Packet Tracer
 - Cisco IOS CLI
 
 ## Purpose
 This lab was created to improve networking fundamentals for CCNA and cybersecurity learning.
+
+## Network Topology
+
+![Topology](topology.png)
