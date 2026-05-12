@@ -25,4 +25,4 @@ This lab was created to improve networking fundamentals for CCNA and cybersecuri
 
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](acl network.jpg)
